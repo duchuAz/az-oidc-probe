@@ -1,7 +1,7 @@
 {
  "issuer": "https://raw.githubusercontent.com/duchuAz/az-oidc-probe/main",
- "authorization_endpoint": "https://raw.githubusercontent.com/duchuAz/az-oidc-probe/main/auth",
- "token_endpoint": "https://raw.githubusercontent.com/duchuAz/az-oidc-probe/main/token",
+ "authorization_endpoint": "https://example.com/az-auth",
+ "token_endpoint": "https://example.com/az-token",
  "jwks_uri": "https://raw.githubusercontent.com/duchuAz/az-oidc-probe/main/jwks.json",
  "response_types_supported": [
   "code"
